@@ -1,0 +1,1 @@
+update member set password = '7a8eaa1475316c8976f28621e1b0535d' where uid = 614228

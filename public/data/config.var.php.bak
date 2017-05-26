@@ -1,0 +1,10 @@
+<?php
+return array(
+	'url_maps' => array(
+		'list' => array('http://list.m.ttkvod.com/'),
+		'item' => array('http://item.m.ttkvod.com/'),
+		'search' => array('http://search.m.ttkvod.com/'),
+		'parser' => array('http://parser.m.ttkvod.com/'),
+		'tv' => array('http://tv.m.ttkvod.com/')
+	)
+);
